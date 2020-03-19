@@ -79,7 +79,7 @@ body{
 
 .infographic{
 	
-	background-image: url("images/golfInfographic.jpg");
+	background-image: url("golfInfographic.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 	position:relative;
@@ -107,7 +107,7 @@ body{
 
 .section1{
 	font-family:'Poppins', sans-serif;
-	background-image:url("images/golf-banner.jpg");
+	background-image:url("golf-banner.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 	position:relative;
